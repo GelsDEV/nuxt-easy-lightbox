@@ -1,0 +1,12 @@
+{
+  "name": "@vernaillen/nuxt-easy-lightbox",
+  "version": "1.0.3",
+  "configKey": "easyLightbox",
+  "compatibility": {
+    "nuxt": ">=3.0.0"
+  },
+  "builder": {
+    "@nuxt/module-builder": "1.0.1",
+    "unbuild": "3.5.0"
+  }
+}
